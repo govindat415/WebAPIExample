@@ -1,5 +1,5 @@
 
-"data": {
+{"data": {
   "posts": [
     { "id": 1, "title": "Post 123" },
     { "id": 2, "title": "Post 2" },
@@ -12,4 +12,4 @@
   "profile": {
     "name": "typicode"
   }
-}
+}}
